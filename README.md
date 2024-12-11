@@ -1,10 +1,9 @@
 # -Spam-Email-Classification-using-NLP-and-Machine-Learning
 <h1>SpamClassifier</h1>
 
-
 SpamClassifier is a simple yet effective tool that uses Machine Learning and NLP to identify and filter spam emails.
 
-Features:
+<h1>Features:</h1>
 
 1. Email Classification:
 Quickly classify emails as "Spam" or "Not Spam."
