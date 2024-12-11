@@ -1,5 +1,6 @@
 # -Spam-Email-Classification-using-NLP-and-Machine-Learning
 SpamClassifier
+
 SpamClassifier is a simple yet effective tool that uses Machine Learning and NLP to identify and filter spam emails.
 
 Features:
@@ -13,4 +14,4 @@ Check accuracy, confusion matrix, and classification report to understand the mo
 
 
 3. Easy-to-Use Interface:
-Built with Streamlit, the tool displays results with a clear color-coded background: grey for Spam and pinkfor Not Spam.
+Built with Streamlit, the tool displays results with a clear color-coded background: Pink for Spam and Purpul for Not Spam.
